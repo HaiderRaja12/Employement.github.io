@@ -532,7 +532,7 @@ width: 800px;
     font-family: 'Lobster', sans-serif;
     opacity: 1.5;
     position: absolute;
-    left: 640px;
+    left: 500px;
     top: 20px;
   }
 .teams .main{
@@ -540,7 +540,7 @@ width: 800px;
   top: 100px;
   width: 60%;
   height: 450px;
-  left: 100px;
+  left: 500px;
   display: flex;
   /* align-items: center; */
   /* justify-content: center; */
