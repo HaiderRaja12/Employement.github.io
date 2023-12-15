@@ -520,9 +520,9 @@ width: 800px;
   .teams{
     position: relative;
     top: 2880px;
-    left: 0px;
+    left: 140px;
     height: 500px;
-    width: 100%;
+    width: 80%;
   }
   .teams .headingt{
     color:black;
@@ -540,7 +540,7 @@ width: 800px;
   top: 100px;
   width: 60%;
   height: 450px;
-  left: 60px;
+  left: 80px;
   display: flex;
   /* align-items: center; */
   /* justify-content: center; */
