@@ -520,7 +520,7 @@ width: 800px;
   .teams{
     position: relative;
     top: 2880px;
-    left: 30px;
+    left: 0px;
     height: 500px;
     width: 100%;
   }
@@ -532,7 +532,7 @@ width: 800px;
     font-family: 'Lobster', sans-serif;
     opacity: 1.5;
     position: absolute;
-    left: 500px;
+    left: 640px;
     top: 20px;
   }
 .teams .main{
@@ -540,7 +540,7 @@ width: 800px;
   top: 100px;
   width: 60%;
   height: 450px;
-  left: 500px;
+  left: 60px;
   display: flex;
   /* align-items: center; */
   /* justify-content: center; */
